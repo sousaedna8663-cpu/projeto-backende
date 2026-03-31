@@ -12,25 +12,21 @@ Este é um projeto de API robusta desenvolvida para gerenciar usuários, produto
 ## 📥 Instalação
 1. Clone o repositório:
    ```bash
-   git clone https://github.com
-Use o código com cuidado.
+   git clone https://github.com/sousaedna8663-cpu/projeto-backende.git
 
 Instale as dependências:
 bash
 npm install
-Use o código com cuidado.
 
 🚀 Como rodar o projeto
 Para iniciar o servidor:
 bash
 npm start
-Use o código com cuidado.
 
 🧪 Testes
 Acabei de adicionar uma suíte de testes completa para garantir o funcionamento das rotas principais. Para rodar:
 bash
 npm test
-Use o código com cuidado.
 
 Arquivos de teste incluídos:
 user.test.js: Valida criação e login de usuários.
